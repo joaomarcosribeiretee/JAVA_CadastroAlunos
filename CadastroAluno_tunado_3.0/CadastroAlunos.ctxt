@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=CadastroAlunos
+comment0.text=\r\n\ Armazenador\ -\ classe\ para\ implementar\ operacoes\ de\ persistencia\ \r\n\ em\ memoria.\r\n\r\n\ @author\ Julio\ Arakaki\r\n\ @version\ 05/2023\r\n
+comment1.params=k
+comment1.target=CadastroAlunos(int)
+comment1.text=\r\n\ CadastroClientes\ Construtor\ para\ armazenar\ objetos\ em\ memoria\r\n\r\n
+comment2.params=k
+comment2.target=void\ setK(int)
+comment3.params=aluno
+comment3.target=void\ inserir(Aluno)
+comment3.text=\r\n\ salvarCliente\ em\ memoria\r\n\r\n\ @param\ client\ Cliente\ a\ ser\ adicionada\ no\ armazenador\r\n
+comment4.params=
+comment4.target=boolean\ testeVazio()
+comment5.params=raremov
+comment5.target=void\ remover(java.lang.String)
+comment6.params=
+comment6.target=void\ listar()
+comment6.text=\r\n\ listarSaldoNegativo\ -\ imprime\ os\ clientes\ com\ saldo\ negativo\r\n\r\n\ @return\ O\ valor\ de\ retorno\r\n
+comment7.params=cad\ disc
+comment7.target=void\ listarMaterias(Aluno,\ Disciplina[])
+comment8.params=ra
+comment8.target=boolean\ boolRA(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+comment9.text=\r\n\ toString\ imprime\ dados\ do\ cadastro\r\n\r\n\ @return\ String\ com\ os\ clientes\r\n
+numComments=10
