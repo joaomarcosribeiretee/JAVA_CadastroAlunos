@@ -1,5 +1,5 @@
 # Cadastro de Alunos em JAVA
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/joaomarcosribeiretee/Hotel_LIC/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/joaomarcosribeiretee/JAVA_CadastroAlunos/tree/main) 
 
 # Sobre o projeto
 
